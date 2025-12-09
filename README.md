@@ -31,5 +31,5 @@ A Laravel-based implementation for **Bakong KHQR** payments — supporting QR ge
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/laravel-bakong-khqr.git
+git clone https://github.com/ChouMonyrith/KHQR-Template-Laravel.git
 cd laravel-bakong-khqr
